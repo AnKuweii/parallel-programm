@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/hello.dir/src/hello.o  -o hello  -lgomp -lpthread 

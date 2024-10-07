@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/inner_product.dir/src/inner_product.o  -o inner_product  -lgomp -lpthread 

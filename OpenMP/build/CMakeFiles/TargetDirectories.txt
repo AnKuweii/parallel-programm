@@ -1,0 +1,3 @@
+/home/mxs/Code/parallel_programme/OpenMP/build/CMakeFiles/rebuild_cache.dir
+/home/mxs/Code/parallel_programme/OpenMP/build/CMakeFiles/edit_cache.dir
+/home/mxs/Code/parallel_programme/OpenMP/build/CMakeFiles/matrix_vector.dir

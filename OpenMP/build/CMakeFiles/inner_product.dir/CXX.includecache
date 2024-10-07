@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mxs/Code/parallel_programme/OpenMP/src/inner_product.cpp
+cstring
+-
+iostream
+-
+omp.h
+-
+random
+-
+

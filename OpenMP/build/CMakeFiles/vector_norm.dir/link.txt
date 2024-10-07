@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/vector_norm.dir/src/vector_norm.o  -o vector_norm  -lgomp -lpthread 

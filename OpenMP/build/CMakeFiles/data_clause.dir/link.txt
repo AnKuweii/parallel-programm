@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/data_clause.dir/src/data_clause.o  -o data_clause  -lgomp -lpthread 
